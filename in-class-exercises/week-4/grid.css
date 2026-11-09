@@ -1,0 +1,27 @@
+div {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    color: white;
+
+}
+
+#main-content {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 15px;
+    justify-items: center;
+}
+
+div:nth-child(1){
+    grid-column: 1 / 4;
+    width: 100%;
+    background-color: red;
+}
+
+div:nth-child(6) {
+    grid-row: 2/4;
+    background-color: green;
+    height: 100%;
+    width: 100%;
+}

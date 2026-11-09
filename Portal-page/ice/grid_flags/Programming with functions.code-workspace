@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Programming with functions",
+			"path": "../../wdd130/in-class-exercises/week-1/Programming with functions"
+		},
+		{
+			"name": "ice",
+			"path": ".."
+		},
+		{
+			"path": "../../Personal-Projects"
+		},
+		{
+			"path": "../../wdd130"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ice"
+	}
+}
